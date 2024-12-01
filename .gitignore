@@ -1,0 +1,5 @@
+#Ignoruj všechyno ve složce bin
+bin/
+
+#Ignoruj všechno ve složce obj
+obj/
