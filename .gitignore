@@ -1,2 +1,5 @@
-web-api-9-proj/obj/Debug/net9.0/web-api-9-proj.AssemblyInfoInputs.cache
-web-api-9-proj/obj/Debug/net9.0/web-api-9-proj.AssemblyInfo.cs
+#Ignoruj všechyno ve složce bin
+bin/
+
+#Ignoruj všechno ve složce obj
+obj/
